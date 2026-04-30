@@ -1,21 +1,102 @@
-# 💫 About Me:
-I'm an AI & Machine Learning Engineer passionate about building intelligent systems that solve real-world problems and Helping organizations ship faster, safer, and at scale. Currently pursuing my M.S. in Machine Learning at Stevens Institute of Technology while developing AI/ML solutions across multiple domains.<br>🎯 What I Do<br>Specialized in: Large Language Models (LLMs),Retrieval-Augmented Generation (RAG), LLM Evaluations & LLM-as-a-Judge Systems, Retrieval-Augmented Generation (RAG), Computer Vision, and Multi-Agent AI Systems<br>Focus Areas:<br><br>🤖 AI Agents & Automation - Building autonomous systems that think, reason, and act<br>📚 RAG Systems - Creating intelligent retrieval pipelines for enhanced AI accuracy<br>👁️ Computer Vision - Developing real-time detection and recognition systems<br>☁️ MLOps & Cloud AI - Deploying scalable AI solutions on AWS/Azure
+<!-- README written to be read by humans, not crawlers -->
 
+<h1 align="center">Rishi Chhabra</h1>
+<p align="center">
+  <em>AI/ML Engineer · Building systems that reason, retrieve, and act</em>
+</p>
 
-## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/rchhabra1) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:rishi.chhabra@outlook.com) 
-
-# 💻 Tech Stack:
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=flat&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=flat&logo=c%2B%2B&logoColor=white) ![Dart](https://img.shields.io/badge/dart-%230175C2.svg?style=flat&logo=dart&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=flat&logo=javascript&logoColor=%23F7DF1E) ![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=flat&logo=markdown&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=flat&logo=python&logoColor=ffdd54) ![Bash Script](https://img.shields.io/badge/bash_script-%23121011.svg?style=flat&logo=gnu-bash&logoColor=white) ![Swift](https://img.shields.io/badge/swift-F54A2A?style=flat&logo=swift&logoColor=white) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=flat&logo=typescript&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=flat&logo=amazon-aws&logoColor=white) ![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=flat&logo=microsoftazure&logoColor=white) ![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=flat&logo=Cloudflare&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=flat&logo=firebase) ![Linode](https://img.shields.io/badge/linode-00A95C?style=flat&logo=linode&logoColor=white) ![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=flat&logo=google-cloud&logoColor=white) ![Anaconda](https://img.shields.io/badge/Anaconda-%2344A833.svg?style=flat&logo=anaconda&logoColor=white) ![Django](https://img.shields.io/badge/django-%23092E20.svg?style=flat&logo=django&logoColor=white) ![Elasticsearch](https://img.shields.io/badge/elasticsearch-%230377CC.svg?style=flat&logo=elasticsearch&logoColor=white) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=flat&logo=express&logoColor=%2361DAFB) ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=flat&logo=fastapi) ![Flask](https://img.shields.io/badge/flask-%23000.svg?style=flat&logo=flask&logoColor=white) ![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=flat&logo=Flutter&logoColor=white) ![JWT](https://img.shields.io/badge/JWT-black?style=flat&logo=JSON%20web%20tokens) ![NPM](https://img.shields.io/badge/NPM-%23CB3837.svg?style=flat&logo=npm&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=flat&logo=node.js&logoColor=white) ![Nodemon](https://img.shields.io/badge/NODEMON-%23323330.svg?style=flat&logo=nodemon&logoColor=%BBDEAD) ![OpenCV](https://img.shields.io/badge/opencv-%23white.svg?style=flat&logo=opencv&logoColor=white) ![OpenGL](https://img.shields.io/badge/OpenGL-%23FFFFFF.svg?style=flat&logo=opengl) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=flat&logo=react&logoColor=%2361DAFB) ![Snowflake](https://img.shields.io/badge/snowflake-%2329B5E8.svg?style=flat&logo=snowflake&logoColor=white) ![Socket.io](https://img.shields.io/badge/Socket.io-black?style=flat&logo=socket.io&badgeColor=010101) ![Apache Airflow](https://img.shields.io/badge/Apache%20Airflow-017CEE?style=flat&logo=Apache%20Airflow&logoColor=white) ![Jenkins](https://img.shields.io/badge/jenkins-%232C5263.svg?style=flat&logo=jenkins&logoColor=white) ![Nginx](https://img.shields.io/badge/nginx-%23009639.svg?style=flat&logo=nginx&logoColor=white) ![AmazonDynamoDB](https://img.shields.io/badge/Amazon%20DynamoDB-4053D6?style=flat&logo=Amazon%20DynamoDB&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=flat&logo=mongodb&logoColor=white) ![InfluxDB](https://img.shields.io/badge/InfluxDB-22ADF6?style=flat&logo=InfluxDB&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-a08021?style=flat&logo=firebase&logoColor=ffcd34) ![Redis](https://img.shields.io/badge/redis-%23DD0031.svg?style=flat&logo=redis&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=flat&logo=figma&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=flat&logo=Canva&logoColor=white) ![Blender](https://img.shields.io/badge/blender-%23F5792A.svg?style=flat&logo=blender&logoColor=white) ![Keras](https://img.shields.io/badge/Keras-%23D00000.svg?style=flat&logo=Keras&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=flat&logo=Matplotlib&logoColor=black) ![mlflow](https://img.shields.io/badge/mlflow-%23d9ead3.svg?style=flat&logo=numpy&logoColor=blue) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=flat&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=flat&logo=pandas&logoColor=white) ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=flat&logo=PyTorch&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=flat&logo=scikit-learn&logoColor=white) ![Scipy](https://img.shields.io/badge/SciPy-%230C55A5.svg?style=flat&logo=scipy&logoColor=%white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=flat&logo=TensorFlow&logoColor=white) ![GitLab CI](https://img.shields.io/badge/gitlab%20CI-%23181717.svg?style=flat&logo=gitlab&logoColor=white) ![GitHub Actions](https://img.shields.io/badge/github%20actions-%232671E5.svg?style=flat&logo=githubactions&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=flat&logo=github&logoColor=white) ![GitLab](https://img.shields.io/badge/gitlab-%23181717.svg?style=flat&logo=gitlab&logoColor=white) ![Arduino](https://img.shields.io/badge/-Arduino-00979D?style=flat&logo=Arduino&logoColor=white) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=flat&logo=docker&logoColor=white) ![Jira](https://img.shields.io/badge/jira-%230A0FFF.svg?style=flat&logo=jira&logoColor=white) ![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=flat&logo=notion&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat&logo=postman&logoColor=white) ![Raspberry Pi](https://img.shields.io/badge/-Raspberry_Pi-C51A4A?style=flat&logo=Raspberry-Pi) ![Terraform](https://img.shields.io/badge/terraform-%235835CC.svg?style=flat&logo=terraform&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=rchhabra13&theme=default&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=rchhabra13&theme=default&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=rchhabra13&theme=default&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
-
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+<p align="center">
+  <a href="https://linkedin.com/in/rchhabra1">LinkedIn</a> ·
+  <a href="mailto:rishi.chhabra@outlook.com">Email</a> ·
+  <a href="https://github.com/rchhabra13">GitHub</a>
+</p>
 
 ---
-[![](https://visitcount.itsvg.in/api?id=rchhabra13&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+## The short version
+
+I build AI systems that actually work in production — not notebooks, not demos, real pipelines.
+
+Right now I'm an AI/ML Engineer at **AriesView** and finishing my M.S. in Machine Learning at **Stevens Institute of Technology**. My work sits at the intersection of large language models, retrieval systems, and the infrastructure that makes them reliable at scale.
+
+If you're a founder, CTO, or recruiter looking for someone who can take an AI idea from whiteboard to deployed product — read on.
+
+---
+
+## What I actually spend my time on
+
+**LLMs & Evaluation**  
+I don't just call APIs. I build evaluation frameworks that tell you *why* a model is failing — LLM-as-a-Judge pipelines, automated regression testing for prompts, and structured output validation. Because "it seems to work" isn't enough.
+
+**RAG Systems**  
+Most RAG pipelines are broken in subtle ways. I've spent significant time diagnosing and rebuilding retrieval pipelines — hybrid search, re-ranking, chunking strategies, metadata filtering — the parts that matter when documents are messy and queries are ambiguous.
+
+**Multi-Agent AI**  
+Building autonomous agents that plan, use tools, and recover from failures. Not toy demos — orchestrated systems with memory, state management, and guardrails. Think: agents that actually complete multi-step workflows without falling apart.
+
+**Computer Vision**  
+Real-time detection and recognition systems. Edge deployment on constrained hardware. The kind of work where latency is measured in milliseconds and accuracy is non-negotiable.
+
+**MLOps & Cloud**  
+AWS and Azure. Docker, Airflow, MLflow. CI/CD for ML models. If a model can't be deployed, monitored, and updated without heroics, it's not done.
+
+---
+
+## The stack I reach for
+
+```
+Languages    →  Python, TypeScript, C++, Bash
+AI/ML        →  PyTorch, TensorFlow, LangChain, LlamaIndex, HuggingFace, scikit-learn
+LLM Infra    →  OpenAI API, Anthropic, vLLM, Ollama, RAGAS, DeepEval
+Vector DBs   →  Pinecone, Weaviate, Elasticsearch, FAISS
+Cloud        →  AWS (SageMaker, Lambda, S3, ECS), Azure ML, GCP
+MLOps        →  MLflow, Apache Airflow, Docker, Kubernetes, GitHub Actions
+Data         →  MongoDB, Redis, DynamoDB, Snowflake, PostgreSQL
+APIs         →  FastAPI, Flask, Django, Node.js
+```
+
+---
+
+## A few things I believe about building AI
+
+**1. Eval first, build second.**  
+You can't improve what you can't measure. Every AI project I start with defining what "good" looks like before writing a single model call.
+
+**2. Retrieval is harder than generation.**  
+Most RAG failures happen before the LLM sees anything. The document pipeline, the chunking, the embedding quality — that's where the work is.
+
+**3. The best ML system is the simplest one that solves the problem.**  
+I've seen teams burn months fine-tuning a model when a better prompt and a retrieval pipeline would have worked. I try to earn the complexity.
+
+**4. Production is where ideas go to be stress-tested.**  
+A model that scores 90% on a benchmark and fails on real data isn't a good model. Real usage patterns are messier, and I like that.
+
+---
+
+## Currently exploring
+
+- Compound AI systems — chains of specialized models that outperform single large ones
+- LLM security and adversarial robustness (jailbreaks, prompt injection, data leakage)
+- Efficient inference — quantization, speculative decoding, batching strategies
+- Multimodal pipelines — connecting vision, language, and structured data
+
+---
+
+## What I'm looking for
+
+I'm open to conversations with teams building serious AI products — not AI wrappers, but teams where the AI *is* the product. Ideally something in the intersection of enterprise automation, research tooling, or applied AI infrastructure.
+
+If you're a **founder or CTO** who's been burned by AI demos that don't scale, let's talk. I've spent time on both the research side and the engineering side, and I understand why that gap is so hard to bridge.
+
+📬 **rishi.chhabra@outlook.com** · [LinkedIn](https://linkedin.com/in/rchhabra1)
+
+---
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=rchhabra13&show_icons=true&hide_border=true&count_private=true&theme=default" height="150"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rchhabra13&layout=compact&hide_border=true&count_private=true&theme=default" height="150"/>
+</p>
+
+---
+
+<p align="center"><sub>Last updated April 2026 · Built by hand, not a generator</sub></p>
