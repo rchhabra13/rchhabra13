@@ -13,7 +13,7 @@
 
 ---
 
-## The short version
+## TLDR;
 
 I build AI systems that actually work in production — not notebooks, not demos, real pipelines.
 
